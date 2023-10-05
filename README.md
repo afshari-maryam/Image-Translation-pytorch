@@ -6,7 +6,7 @@ You can see the code and result in ```Image _To_Image_Translation.ipynb ```.</br
 
 
 ## About the model architecture : 
-The U-Net model is a popular architecture used for image translation tasks. It is particularly effective in tasks such as image segmentation, where the goal is to classify and differentiate different regions within an image. The U-Net architecture consists of an ```encoder-decoder structure``` with ```skip connections```.</br>
+The ```U-Net model``` is a popular architecture used for image translation tasks. It is particularly effective in tasks such as image segmentation, where the goal is to classify and differentiate different regions within an image. The U-Net architecture consists of an ```encoder-decoder structure``` with ```skip connections```.</br>
 
 The ```encoder part``` of the network captures the high-level features of the input image through a series of convolutional and pooling layers.</br>
 The ```decoder part``` of the network uses upsampling and transposed convolutions to generate a high-resolution output that matches the input image size.</br>

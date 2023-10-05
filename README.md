@@ -12,9 +12,8 @@ The ```encoder part``` of the network captures the high-level features of the in
 The ```decoder part``` of the network uses upsampling and transposed convolutions to generate a high-resolution output that matches the input image size.</br>
 The skip connections, which connect corresponding layers from the encoder to the decoder, help preserve spatial information and aid in the accurate reconstruction of the output.</br>
 
-The UNet model has gained popularity due to its ability to handle both local and global features effectively. </br>
+The UNet model has gained popularity due to its ability to handle both local and global features effectively. I used UNet in this implementation. </br>
 
-I used UNet in this implementation. </br>
 
 ## Results :
 You can see the results of this implementation in below picture:</br>

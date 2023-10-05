@@ -3,7 +3,7 @@
                            
 This is the implementation of image translation using Unet Model in pytorch. </br>
 You can see the code and result in ```Image _To_Image_Translation.ipynb ```.</br>
-I wrote this code using jupyter notebook.</br>
+
 
 ## About the model architecture : 
 The U-Net model is a popular architecture used for image translation tasks. It is particularly effective in tasks such as image segmentation, where the goal is to classify and differentiate different regions within an image. The U-Net architecture consists of an ```encoder-decoder structure``` with ```skip connections```.</br>

@@ -19,6 +19,6 @@ I used UNet in this implementation. </br>
 ## Results :
 You can see the results of this implementation in below picture:</br>
 The input images are in the first row and predicted images (outputs of model) are in the second row.</br>
-![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%203.png)
+![image](https://github.com/afshari-maryam/Image-Translation-pytorch/blob/main/Result.png)
 
 

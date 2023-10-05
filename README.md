@@ -17,7 +17,9 @@ The UNet model has gained popularity due to its ability to handle both local and
 
 ## Results :
 You can see the results of this implementation in below picture:</br>
-The input images are in the first row and predicted images (outputs of model) are in the second row.</br>
+Input images of test dataset are in the first row. </br>
+Predicted images (outputs of model) are in the second row.</br>
+
 ![image](https://github.com/afshari-maryam/Image-Translation-pytorch/blob/main/Result.png)
 
 

@@ -1,4 +1,4 @@
-# Image-Translation-pytorch
+# Image-Translation-UNet-pytorch
                            In the Name of Allah, the Beneficent, the Merciful
                            
 This is the implementation of image translation using Unet Model in pytorch. </br>
